@@ -32,8 +32,8 @@ I have skills in JavaScript, NodeJS, ReactJS, HTML CSS Bootstrap. Working with R
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213107898-d20dc3c0-c8bf-4850-a90b-38eda8107998.png" width="46" height="46" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213110404-80ebdaae-e606-4c74-953b-91472a1a0b09.png" width="46" height="46" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213107898-d20dc3c0-c8bf-4850-a90b-38eda8107998.png" width="52" height="52" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213110404-80ebdaae-e606-4c74-953b-91472a1a0b09.png" width="52" height="52" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213111168-1a8fc330-cea5-4c3d-892e-f598ef486ff6.png" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213111543-c484765a-2262-408b-b8fc-d51733d03b5d.png" width="46" height="46" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213111767-2d32d1cd-e001-40c5-9bf1-a5c40e16b783.png" width="36" height="36" alt="HTML5" /></a>
