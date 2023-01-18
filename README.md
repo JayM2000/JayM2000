@@ -21,7 +21,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend and Backend Developer
 ------------------------------
 
-I have completed my Computer Engineering under SPPU University. Started learning and working on JavaScript, NodeJS, ReactJS, HTML CSS Bootstrap. Working with ReactJS NodeJS tech for nearly 6 months, learning with lot of functionality using ReactJS react redux toolkit. Implemented 5+ projects using MERN Stack and are live hosted on many platforms. Love to develop creative website. Open to work full time in any company or an organization on any tech.
+* I have completed my Computer Engineering under SPPU University. Started learning and working on JavaScript, NodeJS, ReactJS, HTML CSS Bootstrap.
+* Working with ReactJS NodeJS tech for nearly 6 months, learning with lot of functionality using ReactJS react redux toolkit. 
+* Implemented 5+ projects using MERN Stack and are live hosted on many platforms. 
+* Love to develop creative website. 
+* Open to work full time in any company or an organization on any tech.
 
 * 🌍  I'm based in Maharashtra, India
 * 🖥️  See my portfolio at [MyPortfolio](http://jaytm.ga/)
