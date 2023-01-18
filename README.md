@@ -58,7 +58,7 @@ I have skills in JavaScript, NodeJS, ReactJS, HTML CSS Bootstrap. Working with R
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/jaym2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/JayM2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jaymisal200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/jaym2000" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213118916-11459075-dcd5-4cd4-a9df-a27555995ab4.png" width="32" height="32" /></a> <a href="https://www.github.com/JayM2000" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213119123-d1806cc0-1edf-40e1-9f07-6b8c2af3c61b.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jaymisal200" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213119391-6b652d2f-2d3b-46a7-ac5d-143fe8498cee.png" width="32" height="32" /></a></p>
 
 ### Badges
 
