@@ -53,8 +53,6 @@ I have skills in JavaScript, NodeJS, ReactJS, HTML CSS Bootstrap. Working with R
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213116391-770359ad-8a3f-4dc0-b128-c326b26f1f74.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213116571-78bbd382-b21a-4797-9dbd-99f18a212bae.png" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69978761/213117015-c1464235-706d-44a4-94c4-20bd409659bf.png" width="36" height="36" alt="Netlify" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
 
